@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning ... always learning something new but right now i'm on website development and cloud computing with AWS
 - 👯 I’m looking to collaborate on ... html/css, aws cloud, powershell projects
 - 🤔 I’m looking for help with ... html/css static website development and design ideas
-- 💬 Ask me about ... the pub crawl in Rome, Italy right next to the famous colosseum 
+- 💬 Ask me about ... the pub crawl in Rome, Italy right next to the famous colosseo 
 - 📫 How to reach me: ... have your people call my people
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... The Philippines consists of around 7,621 islands
