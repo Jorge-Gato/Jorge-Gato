@@ -1,16 +1,15 @@
 ### Hi there 👋
+<p>My name is Jorge. I was born to Cuban parents in sunny south Florida in the early 80's. 2nd generation American. I remember as a very young kid my neighbor invited me over to his house to check out the new computer his parents just bought and was blown away when he started showing me very pixely photos of girls in bikinis. Then my head almost exploded when he started playing this super scary game called doom! I've been hooked ever since.</p><p> After high school at the age of 17 I enlisted in the United States Navy where I trained to be a Cryptologic Technician in Communications or a "CTO" where I graduated at top of my class. I got orders to Italy and spent the majority of my enlistment there where I worked as part of a group in a 24/7, 365 days/year manned underground top secret facility that were in charge of providing our deployed vessels sailors/soldiers with secure and reliable communications in Med/IO using various methods and encryption techniques.<p><p>After my enlistment was up I decided to take the money I had saved up over the last few years and just take a break. Moved to the Florida keys to be closer to my parents and live the island lifestyle up a bit. That didn't last too long before I was bored to tears and was back in the IT wheelhouse where I felt is where I belonged. I've been kicking the tires and lighting the fires ever since. Going to school, getting certifications and gaining real life experience learning about the IT side of things from a civillian/non military presepective. I have a heavy networking background but have recently started diving into the world of programming, development, and cloud computing. Someone I know who has helped motivate me to pursue my interests in programming told me that setting up a github and a linkedin was a thing to do, so here I am. I'm dipping my toes in the pool before I jump all in! I'm excited to challenge myself and see how creative I can get with this so let's GO!<br>  
 
-<!--
-**Jorge-Gato/Jorge-Gato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on ... my github game, doggy dedication static website, VOIP phone system swap at work, being the best version of me I can be
+- 🌱 I’m currently learning ... always learning something new but right now i'm on website development and cloud computing with AWS
+- 👯 I’m looking to collaborate on ... html/css, aws cloud, powershell projects
+- 🤔 I’m looking for help with ... html/css static website development and design ideas
+- 💬 Ask me about ... the pub crawl in Rome, Italy right next to the famous colosseum 
+- 📫 How to reach me: ... have your people call my people
+- 😄 Pronouns: ... he/him
+- ⚡ Fun fact: ... The Philippines consists of around 7,621 islands
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jorge-Gato)](https://github.com/anuraghazra/github-readme-stats)
+<blockquote cite"https://philosiblog.com/2011/12/02/no-problem-can-withstand-the-assault-of-sustained-thinking/">"No problem can withstand the assult of sustained thinking"<br>
+- Voltaire</blockquote> 
